@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GearGuard - Maintenance Tracker
 
 The ultimate maintenance tracking system for equipment, machinery, and vehicles.
@@ -46,3 +47,6 @@ The ultimate maintenance tracking system for equipment, machinery, and vehicles.
 
 -   **Hydration Error**: Added `suppressHydrationWarning` to `<body>` to handle browser extension interference.
 -   **Database Error**: Implemented explicit check for `DATABASE_URL` in `lib/db.ts`.
+=======
+# Odoo-Hackathon
+>>>>>>> ca3f6510c3cf434fd623442fb0c9310d0d23ce75
